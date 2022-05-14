@@ -20,7 +20,7 @@ Clone the project
 Go to the backend project directory
 
 ```bash
-  cd Simple_message_app backend
+  cd Simple_message_app/backend
 ```
 
 Install dependencies
@@ -38,7 +38,7 @@ Start the server
 Go to the project frontend directory
 
 ```bash
-  cd Simple_message_app frontend
+  cd Simple_message_app/frontend
 ```
 
 Install dependencies
